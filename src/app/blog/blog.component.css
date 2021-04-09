@@ -1,19 +1,33 @@
-.main {
-    
-}
 .c-perfil {
-    background-color: rgb(59, 104, 240);
-    padding-bottom: 20px;
-    margin: 0 auto;
-    text-align: center;
-}
-
-.c-perfil__row {
-    margin: 0 auto;
+  background-color: rgb(59, 104, 240);
+  padding-bottom: 20px;
 }
 
 .c-perfil__item {
-    width: 30%;
-    color: white;
-    text-align: left;
+  width: 50%;
+  color: white;
+  text-align: left;
+  padding-left: 100px;
+}
+
+.c-perfil__imagem {
+  width: 150px;
+  height: 150px;
+}
+
+.c-artigos {
+  padding-top: 20px;
+}
+
+.c-artigos__titulo {
+  color: blue;
+  margin-bottom: 5px;
+}
+
+.c-artigos__descricao {
+  width: 60%;
+}
+
+.c-artigos__link {
+  text-decoration: none;
 }
