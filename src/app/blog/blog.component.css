@@ -1,0 +1,19 @@
+.main {
+    
+}
+.c-perfil {
+    background-color: rgb(59, 104, 240);
+    padding-bottom: 20px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.c-perfil__row {
+    margin: 0 auto;
+}
+
+.c-perfil__item {
+    width: 30%;
+    color: white;
+    text-align: left;
+}
